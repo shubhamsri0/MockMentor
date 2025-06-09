@@ -112,7 +112,7 @@ const page = () => {
       </main>
 
       <footer className="py-8 bg-black text-white text-center">
-        <p>© 2025 MockMentor. All rights reserved to Shubham Srivastava.</p>
+        <p>© 2025-26 MockMentor. All rights reserved to Shubham Srivastava.</p>
       </footer>
     </div>
   )
