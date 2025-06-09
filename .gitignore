@@ -1,0 +1,24 @@
+# Node and build folders
+node_modules/
+.next/
+dist/
+out/
+
+# Logs and environment
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Database and cache (if applicable)
+*.sqlite
+.cache/
